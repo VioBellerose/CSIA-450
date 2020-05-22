@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__author__ = "Ashley"
+__author__ = "Ashley Ojeda"
 __email__ = "aojeda@students.columbiabasin.edu"
 __date_ = "Spring 2020"
 __version__ = "0.0.1"
